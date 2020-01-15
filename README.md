@@ -141,6 +141,8 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Explaining Machine Learning with Azure and the Titanic Dataset](https://www.youtube.com/watch?v=x1DfjUEYm0k)
 * [Using Machines to exploit Machines](https://www.youtube.com/watch?v=VuLvzL-WbBQ)
 * [Analyze active directory event logs using visualize and ML](https://www.youtube.com/watch?v=ISbbzaCGBns)
+* [Hardening Machine Learning Defenses Against Adversarial Attacks](https://www.youtube.com/watch?v=CAwua_lugV8)
+* [Deep Neural Networks for Hackers: Methods, Applications, and Open Source Tools](https://www.youtube.com/watch?v=fKJ8sTi6H88)
 
 ## [↑](#table-of-contents) Tutorials
 
@@ -180,6 +182,7 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Source code for Mastering Machine Learning for Penetration Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
 * [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer)
 * [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
+* [StringSifter - a machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter)
 
 ## License
 
